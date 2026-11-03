@@ -35,7 +35,7 @@ numpy==2.5.1
 onnxruntime==1.28.0
 tokenizers==0.22.2
 filelock==3.20.0
-certifi==2026.7.22
+certifi==2026.10.18
 
 # 宽松JSON解析
 json5==0.12.0
